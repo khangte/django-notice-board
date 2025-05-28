@@ -1,0 +1,7 @@
+# 기본 Git 무시 파일
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+*.log
+
