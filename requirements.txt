@@ -1,1 +1,5 @@
 django
+.idea/
+.env
+*.sqlite3
+*.sh
