@@ -1,5 +1,7 @@
-django
-.idea/
+__pycache__/
+*.pyc
 .env
+*.log
+.idea/
 *.sqlite3
 *.sh
